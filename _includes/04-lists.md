@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+The following things are my favorite!
+* Exercise
+  * Running
+  * Cycling
+* Cooking
+* Reading
